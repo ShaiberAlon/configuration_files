@@ -11,3 +11,6 @@ syntax on
 " adjust the default colours for better contrast (since I'm using a dark
 " background):
 set background=dark
+
+" setting so that I could copy in and out of vim from/into the clipboard
+set clipboard=unnamed
